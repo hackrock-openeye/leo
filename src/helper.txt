@@ -1,0 +1,1 @@
+echo "Just a placeholder for something..." > src/helper.txt
