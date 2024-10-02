@@ -2,6 +2,9 @@
 #include <cstdlib>
 #include <ctime>
 
+// They say that sometimes, what's hidden is not lost.
+
+
 class Goal {
 public:
     bool isSeekingYou() {
